@@ -1,0 +1,41 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Multiples of 3 and 5", "Project_Euler\Project_Euler.vcxproj", "{9C685E25-D774-4CB7-B0D9-32E3D06F46E2}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Even Fibonacci numbers", "Even Fibonacci numbers\Even Fibonacci numbers.vcxproj", "{C368FA47-0DA7-452E-885D-EADD7EFF8E4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C685E25-D774-4CB7-B0D9-32E3D06F46E2}.Debug|x64.ActiveCfg = Debug|x64
+		{9C685E25-D774-4CB7-B0D9-32E3D06F46E2}.Debug|x64.Build.0 = Debug|x64
+		{9C685E25-D774-4CB7-B0D9-32E3D06F46E2}.Debug|x86.ActiveCfg = Debug|Win32
+		{9C685E25-D774-4CB7-B0D9-32E3D06F46E2}.Debug|x86.Build.0 = Debug|Win32
+		{9C685E25-D774-4CB7-B0D9-32E3D06F46E2}.Release|x64.ActiveCfg = Release|x64
+		{9C685E25-D774-4CB7-B0D9-32E3D06F46E2}.Release|x64.Build.0 = Release|x64
+		{9C685E25-D774-4CB7-B0D9-32E3D06F46E2}.Release|x86.ActiveCfg = Release|Win32
+		{9C685E25-D774-4CB7-B0D9-32E3D06F46E2}.Release|x86.Build.0 = Release|Win32
+		{C368FA47-0DA7-452E-885D-EADD7EFF8E4C}.Debug|x64.ActiveCfg = Debug|x64
+		{C368FA47-0DA7-452E-885D-EADD7EFF8E4C}.Debug|x64.Build.0 = Debug|x64
+		{C368FA47-0DA7-452E-885D-EADD7EFF8E4C}.Debug|x86.ActiveCfg = Debug|Win32
+		{C368FA47-0DA7-452E-885D-EADD7EFF8E4C}.Debug|x86.Build.0 = Debug|Win32
+		{C368FA47-0DA7-452E-885D-EADD7EFF8E4C}.Release|x64.ActiveCfg = Release|x64
+		{C368FA47-0DA7-452E-885D-EADD7EFF8E4C}.Release|x64.Build.0 = Release|x64
+		{C368FA47-0DA7-452E-885D-EADD7EFF8E4C}.Release|x86.ActiveCfg = Release|Win32
+		{C368FA47-0DA7-452E-885D-EADD7EFF8E4C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {73998733-ADC6-4B6F-A1DE-87CFB5CA14D6}
+	EndGlobalSection
+EndGlobal
