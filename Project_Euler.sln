@@ -7,6 +7,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Multiples of 3 and 5", "Pro
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Even Fibonacci numbers", "Even Fibonacci numbers\Even Fibonacci numbers.vcxproj", "{C368FA47-0DA7-452E-885D-EADD7EFF8E4C}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Largest prime factor", "Largest prime factor\Largest prime factor.vcxproj", "{FD807A91-4673-490D-98FF-A9A66686ECFF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -31,6 +33,14 @@ Global
 		{C368FA47-0DA7-452E-885D-EADD7EFF8E4C}.Release|x64.Build.0 = Release|x64
 		{C368FA47-0DA7-452E-885D-EADD7EFF8E4C}.Release|x86.ActiveCfg = Release|Win32
 		{C368FA47-0DA7-452E-885D-EADD7EFF8E4C}.Release|x86.Build.0 = Release|Win32
+		{FD807A91-4673-490D-98FF-A9A66686ECFF}.Debug|x64.ActiveCfg = Debug|x64
+		{FD807A91-4673-490D-98FF-A9A66686ECFF}.Debug|x64.Build.0 = Debug|x64
+		{FD807A91-4673-490D-98FF-A9A66686ECFF}.Debug|x86.ActiveCfg = Debug|Win32
+		{FD807A91-4673-490D-98FF-A9A66686ECFF}.Debug|x86.Build.0 = Debug|Win32
+		{FD807A91-4673-490D-98FF-A9A66686ECFF}.Release|x64.ActiveCfg = Release|x64
+		{FD807A91-4673-490D-98FF-A9A66686ECFF}.Release|x64.Build.0 = Release|x64
+		{FD807A91-4673-490D-98FF-A9A66686ECFF}.Release|x86.ActiveCfg = Release|Win32
+		{FD807A91-4673-490D-98FF-A9A66686ECFF}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
