@@ -27,6 +27,10 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Largest product in a grid",
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Highly divisible triangular number", "Highly divisible triangular number\Highly divisible triangular number.vcxproj", "{9127D0CB-ACE8-47EE-AA27-FDD70D500E0E}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Large sum", "Large sum\Large sum.vcxproj", "{9AA1302C-7A08-426B-A903-C80F3705E074}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Longest Collatz sequence", "Longest Collatz sequence\Longest Collatz sequence.vcxproj", "{38C45551-64DF-45F2-B5CC-8814630D0CAD}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +135,22 @@ Global
 		{9127D0CB-ACE8-47EE-AA27-FDD70D500E0E}.Release|x64.Build.0 = Release|x64
 		{9127D0CB-ACE8-47EE-AA27-FDD70D500E0E}.Release|x86.ActiveCfg = Release|Win32
 		{9127D0CB-ACE8-47EE-AA27-FDD70D500E0E}.Release|x86.Build.0 = Release|Win32
+		{9AA1302C-7A08-426B-A903-C80F3705E074}.Debug|x64.ActiveCfg = Debug|x64
+		{9AA1302C-7A08-426B-A903-C80F3705E074}.Debug|x64.Build.0 = Debug|x64
+		{9AA1302C-7A08-426B-A903-C80F3705E074}.Debug|x86.ActiveCfg = Debug|Win32
+		{9AA1302C-7A08-426B-A903-C80F3705E074}.Debug|x86.Build.0 = Debug|Win32
+		{9AA1302C-7A08-426B-A903-C80F3705E074}.Release|x64.ActiveCfg = Release|x64
+		{9AA1302C-7A08-426B-A903-C80F3705E074}.Release|x64.Build.0 = Release|x64
+		{9AA1302C-7A08-426B-A903-C80F3705E074}.Release|x86.ActiveCfg = Release|Win32
+		{9AA1302C-7A08-426B-A903-C80F3705E074}.Release|x86.Build.0 = Release|Win32
+		{38C45551-64DF-45F2-B5CC-8814630D0CAD}.Debug|x64.ActiveCfg = Debug|x64
+		{38C45551-64DF-45F2-B5CC-8814630D0CAD}.Debug|x64.Build.0 = Debug|x64
+		{38C45551-64DF-45F2-B5CC-8814630D0CAD}.Debug|x86.ActiveCfg = Debug|Win32
+		{38C45551-64DF-45F2-B5CC-8814630D0CAD}.Debug|x86.Build.0 = Debug|Win32
+		{38C45551-64DF-45F2-B5CC-8814630D0CAD}.Release|x64.ActiveCfg = Release|x64
+		{38C45551-64DF-45F2-B5CC-8814630D0CAD}.Release|x64.Build.0 = Release|x64
+		{38C45551-64DF-45F2-B5CC-8814630D0CAD}.Release|x86.ActiveCfg = Release|Win32
+		{38C45551-64DF-45F2-B5CC-8814630D0CAD}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
