@@ -1,4 +1,4 @@
-#include<iostream>
+#include<stdio.h>
 int main() {
 	long int sum = 0;
 	for (int i = 0; i < 1000; i++) {
@@ -6,6 +6,22 @@ int main() {
 			sum += i;
 		}
 	}
-	std::cout << sum;
+	printf("%ld", sum);
 	return 0;
 }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
