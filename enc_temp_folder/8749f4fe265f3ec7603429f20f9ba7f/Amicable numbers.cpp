@@ -14,7 +14,6 @@ long int dn(long int num) {
 	return sum;
 }
 int main() {
-	//complied and run in devC
 	int arr[10000], sum = 0;
 	for (int i = 1; i < 10000; i++) {
 		arr[i] = dn(i);
